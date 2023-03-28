@@ -1,7 +1,7 @@
 # CNC
 
 ## [What's a CNC?](https://en.wikipedia.org/wiki/Numerical_control)
-The short of it is a programatically driven machine. Think 3d printer, laser/plasma table, waterjet, etc.
+A programatically driven machine. Think 3d printer, laser/plasma table, waterjet, etc.
 
 
 ## Why?
@@ -24,12 +24,12 @@ Here's one of the first hauls ft my failed attempt at an oyster farm and my unpa
 Ended up making ~10 trips to the junkyard over the course of ~6 months and ultimately changed designs based on what I found.
 
 
-### Troubles with (cheap) Overseas Hardware
-Had a lot of trouble with all of the Chinese drop shipped linear rails. The bearing action was hit or miss with the balls being non-standard (for the local bike shop I was attempting to source new, higher quality ones from). I did a repack and clean of some of the OEM bearings but this was an awful experience and added little performance to the carriage action.
+### Troubles with Hardware
+Had a lot of trouble with drop shipped linear rails from Amazon. The bearing action was hit or miss with the balls being non-standard (for the local bike shop I was attempting to source new, higher quality ones from). I did a repack and clean of some of the OEM bearings but this was an awful experience and added little performance to the carriage action.
 ![IMG-5286](https://user-images.githubusercontent.com/50643385/227982506-617c45e0-6a58-42f1-ad5b-77978411dc92.jpg)
 
-### Troubles with (cheap) Overseas Hardware cont.
-All of the motors and drivers also came from China. In retrospect ordering a different driver/motor combo for every axis was a dumb idea.
+### Troubles with Hardware cont.
+All of the motors and drivers also came from Amazon as well as Ebay. In retrospect ordering a different driver/motor combo for every axis was a dumb idea.
 ![IMG-5306](https://user-images.githubusercontent.com/50643385/227983918-43170bb4-bc15-4130-9873-749bec97aa78.jpg)
 ![IMG-5307](https://user-images.githubusercontent.com/50643385/227983943-9bd04012-bc4a-4e5f-ac21-c46d483e9f7f.jpg)
 ![IMG-5308](https://user-images.githubusercontent.com/50643385/227983515-2cd75ec1-37b7-4f64-b126-18dcf8fc1e3b.jpg)
